@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HeaderBar snapshot renders correctly 1`] = `
+<div
+  className="HeaderBar-root-1"
+>
+  <header
+    className="MuiPaper-root-13 MuiPaper-elevation4-19 MuiAppBar-root-4 MuiAppBar-positionStatic-8 MuiAppBar-colorPrimary-11"
+  >
+    <div
+      className="MuiToolbar-root-40 MuiToolbar-regular-42 MuiToolbar-gutters-41"
+    >
+      <h6
+        className="MuiTypography-root-44 MuiTypography-h6-61 MuiTypography-colorInherit-73 HeaderBar-grow-2"
+      >
+        Countries of the World
+      </h6>
+    </div>
+  </header>
+</div>
+`;
